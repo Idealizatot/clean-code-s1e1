@@ -123,12 +123,12 @@
 .list__element-block > .enter[type="text"] {
   width: 226px;
 }
-.button_delete img {
+.button_delete .icon {
   height: 2em;
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
-.button_delete img:hover {
+.button_delete .icon:hover {
   transform: rotateZ(0);
 }
 
