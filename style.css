@@ -39,10 +39,10 @@
     margin:0;
     padding: 0px;
 }
-.list__element, .title_meddle{
+.list__element, .title_meddle {
     list-style:none;
 }
-.enter,.button{
+.enter,.button {
     outline:none;
 }
 .button {
